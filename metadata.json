@@ -1,0 +1,6 @@
+{
+  "name": "金幣戰士之負債勇者",
+  "description": "金幣戰士之負債勇者 (Coin Rangers-Debt Hero)：冒險者文字模擬 RPG 遊戲，在信託借貸與利息壓力下挑戰債務歸零。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
